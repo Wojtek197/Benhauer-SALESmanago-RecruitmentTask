@@ -1,0 +1,7 @@
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\bin\Debug\Benhauer-SALESmanago-RecruitmentTask.exe.config
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\bin\Debug\Benhauer-SALESmanago-RecruitmentTask.exe
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\bin\Debug\Benhauer-SALESmanago-RecruitmentTask.pdb
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\obj\Debug\Benhauer-SALESmanago-RecruitmentTask.csprojAssemblyReference.cache
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\obj\Debug\Benhauer-SALESmanago-RecruitmentTask.csproj.CoreCompileInputs.cache
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\obj\Debug\Benhauer-SALESmanago-RecruitmentTask.exe
+C:\Users\wmiki\source\repos\Benhauer-SALESmanago-RecruitmentTask\Benhauer-SALESmanago-RecruitmentTask\obj\Debug\Benhauer-SALESmanago-RecruitmentTask.pdb
